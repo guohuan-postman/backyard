@@ -1,0 +1,125 @@
+#16号 700  1400
+#18号 1000  1400
+
+chanjia2day_zhengchang_success:
+  startTime:
+    - 700
+    - 1400
+  endTime:
+    - 1000
+    - 1400
+
+chanjia2day_zaiciqingjia:
+  startTime:
+    - 700
+    - 1400
+  endTime:
+    - 1000
+    - 1400
+#12-14
+chanjianjia2day_zhengchang_success:
+  startTime:
+    - 700
+    - 1400
+  endTime:
+    - 1000
+    - 1400
+#chanjianjia2day_ 16-18   19-26 之后的8天
+chanjianjia9day_fail:
+  startTime:
+    - 1000
+    - 1400
+  endTime:
+    - 100
+    - 1700
+
+daixinshijia_zhengchang_success:
+  startTime:
+    - 700
+    - 1400
+  endTime:
+    - 1000
+    - 1400
+
+
+nianjia_zhengchang_success:
+  startTime:
+    - 700
+    - 1400
+  endTime:
+    - 1000
+    - 1400
+#15号 400 1400  31号 700 1700 今天及以后日期 **
+nianjia_chaochu_time_tishi:
+  startTime:
+    - 700
+    - 1400
+  endTime: #31号
+    - 700
+    - 1700
+
+peixunjia_zhengchang_success:
+  startTime:
+    - 700
+    - 1400
+  endTime:
+    - 1000
+    - 1400
+#过去8.5天 8号  16号  **
+peixunjia_9day_fail:
+  startTime:
+    - 500
+    - 1300
+  endTime:
+    - 700
+    - 1400
+
+shenqingchanjia_bohui:
+  startTime:
+    - 700
+    - 1400
+  endTime:
+    - 1000
+    - 1400
+
+shenqingchanjianjia_bohui:
+  startTime:
+    - 700
+    - 1400
+  endTime:
+    - 1000
+    - 1400
+
+shenqingnianjia_bohui:
+  startTime:
+    - 700
+    - 1400
+  endTime:
+    - 1000
+    - 1400
+
+shenqing_peixunjia_bohui:
+  startTime:
+    - 700
+    - 1400
+  endTime:
+    - 1000
+    - 1400
+#申请OT 11号
+shenqing_ot:
+  OTtime:
+    - 700
+    - 1400
+  startTime:
+    - 700
+    - 1400
+  select_time:
+    - 19
+
+
+
+
+
+
+
+
